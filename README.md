@@ -61,4 +61,5 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 
 ## Credits
 
-Udacity Nanodegree Program - Programming for Data Science with Python
+Udacity Nanodegree Program - [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+
