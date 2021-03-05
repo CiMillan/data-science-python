@@ -59,4 +59,6 @@ You will learn about bike share use in Chicago, New York City, and Washington by
     - counts of each gender (only available for NYC and Chicago)
     - earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+## Credits
 
+Udacity Nanodegree Program - Programming for Data Science with Python
